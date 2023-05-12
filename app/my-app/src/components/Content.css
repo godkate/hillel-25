@@ -1,0 +1,9 @@
+.Content {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
